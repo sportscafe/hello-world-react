@@ -14,6 +14,13 @@ This will require you to fill up JSX files for each of the underlying components
 
 ![enter image description here](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn-images.spcafe.in%2Fimg%2Fes3-cfill-w800-h418%2Farticles%2Fbadminton%2FHS_Prannoy_amd_asm_pbl.jpg)
 
+
+**How to run**
+```
+$npm install
+$npm start
+
+
 **Code**
 
 The code has been divided into these sections:
