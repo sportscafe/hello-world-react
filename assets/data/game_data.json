@@ -1,0 +1,11 @@
+[
+	{
+		"name" 			:	"Challenge 1",
+		"tournament"	:	"Tournament 1",
+		"startTime"		:	"2017-12-30T11:30:00.000Z",
+		"endTime"		:	"2017-13-30T11:30:00.000Z",
+		"isJoined"		: 	1,
+		"prizes"		:	20000,
+		"sportName"		:	"football"
+	}
+]
