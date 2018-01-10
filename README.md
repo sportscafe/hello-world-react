@@ -12,7 +12,7 @@ You are required to process the API response (saved in the repo as a json), and 
 
 This will require you to fill up JSX files for each of the underlying components and attach them to the container `App.jsx`. You will also need to write minor application logic and enter them as explained below.
 
-![enter image description here](https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fcdn-images.spcafe.in%2Fimg%2Fes3-cfill-w800-h418%2Farticles%2Fbadminton%2FHS_Prannoy_amd_asm_pbl.jpg)
+![enter image description here](https://cdn-images.spcafe.in/img/es3/test/reacttest.png)
 
 
 **How to run**
